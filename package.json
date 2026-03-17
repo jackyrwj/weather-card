@@ -1,0 +1,11 @@
+{
+  "name": "weather-card",
+  "version": "1.0.0",
+  "description": "A beautiful weather card website",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
